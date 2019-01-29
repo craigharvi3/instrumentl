@@ -1,0 +1,16 @@
+{
+  "name": "instrumentl",
+  "version": "1.0.0",
+  "description": "Create and share beats with the Instrumentl Beat Pad",
+  "main": "src/server.js",
+  "repository": "git@github.com:craigharvi3/instrumentl.git",
+  "author": "Craig Harvie <craig.harvie@bbc.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

@@ -1,0 +1,27 @@
+version: "3.7"
+services:
+  instrumentl:
+    container_name: instrumentl
+    restart: always
+    build: 
+      context: ../
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8080:8080"
+    links:
+      - mongo
+  mongo:
+    container_name: mongo
+    image: mongo
+    ports:
+      - "27017:27017"
+  nginx:
+    container_name: nginx
+    image: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ../nginx/instrumentl.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - instrumentl
