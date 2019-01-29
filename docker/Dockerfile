@@ -1,22 +1,20 @@
 FROM node:10
 
 # Create app directory
-WORKDIR /instrumentl
+RUN mkdir -p /opt/instrumentl
+WORKDIR /opt/instrumentl
 
 # Copy package.json
-COPY package.json /instrumentl
+COPY package.json /opt/instrumentl
 
 # Install dependencies
 RUN yarn install
 
-# Install nodemon globally
-RUN npm install -g nodemon
-
 # Copy everything else in
-COPY . /instrumentl
+COPY . /opt/instrumentl
 
 # Start the server
-CMD nodemon -L src/server.js
+CMD ["npm", "start"]
 
 # Expose the port our app runs on
 EXPOSE 8080

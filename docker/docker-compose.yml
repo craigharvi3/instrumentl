@@ -8,8 +8,10 @@ services:
       dockerfile: docker/Dockerfile
     ports:
       - "8080:8080"
-    links:
+    depends_on:
       - mongo
+    volumes:
+      - ../:/opt/instrumentl
   mongo:
     container_name: mongo
     image: mongo

@@ -6,6 +6,9 @@
   "repository": "git@github.com:craigharvi3/instrumentl.git",
   "author": "Craig Harvie <craig.harvie@bbc.co.uk>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon -L src/server.js"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "mongodb": "^3.1.13"

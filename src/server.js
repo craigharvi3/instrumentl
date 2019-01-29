@@ -10,7 +10,7 @@ const client = mongodb.MongoClient;
 
 client.connect(config.DB, function (err, db) {
   if (err) {
-    console.log('database is not connected')
+    console.log('dafrfrtabase is not connected')
   }
   else {
     console.log('connected!!')
@@ -18,15 +18,7 @@ client.connect(config.DB, function (err, db) {
 });
 
 app.get('/', function (req, res) {
-  res.json({ "hello": "world" });
-});
-
-app.get('/poo', function (req, res) {
-  res.json({ "rfefrerf": "erferferfer" });
-});
-
-app.get('/pofrfrfo', function (req, res) {
-  res.json({ "rfefrerf": "erferferfer" });
+  res.json({ "helrfrflo": "world" });
 });
 
 app.listen(PORT, function () {
