@@ -1,0 +1,6 @@
+{
+	"NODE_ENV": "production",
+	"UFCBROWSER_URL": "https://ufcbrowser.com",
+  "UFCBROWSER_S3_BUCKET": "production.ufcbrowser.com",
+  "UFCBROWSER_S3_URL": "https://s3-eu-west-1.amazonaws.com/production.ufcbrowser.com"
+}

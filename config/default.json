@@ -1,0 +1,6 @@
+{
+	"NODE_ENV": "local",
+	"UFCBROWSER_URL": "http://localhost:3000",
+  "UFCBROWSER_S3_BUCKET": "local.ufcbrowser.com",
+  "UFCBROWSER_S3_URL": "https://s3-eu-west-1.amazonaws.com/local.ufcbrowser.com"
+}

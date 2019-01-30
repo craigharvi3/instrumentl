@@ -1,0 +1,1356 @@
+{
+  "id": "element-soundkit",
+  "name": "Element Soundkit",
+  "image": "https://samples.landr.com/wp-content/uploads/2018/12/SAMPLES-PackArt_Edsclusive_600-300x300.jpg",
+  "artist": {
+    "name": "Edsclusive",
+    "color": "#ffffff",
+    "image": "https://samples.landr.com/wp-content/uploads/2018/12/Edsclusive_Portrait-300x300.jpg"
+  },
+  "beats": [
+    {
+      "name": "Ed Snare 6",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 9",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 25",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 3",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 4",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 5",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 21",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 22",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 23",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 24",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 19",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 2",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 20",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 18",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 16",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 17",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 14",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 15",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 11",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 12",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 13",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 8",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 9",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 1",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Snare 10",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 5",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 6",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 7",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 15",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 2",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 3",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 4",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 13",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 14",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 12",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 1",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 10",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Clap 11",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 5",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 6",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 8",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 9",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 2",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 3",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 4",
+      "type": "Single Hit",
+      "instrument": "SFX, Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 9",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 1",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed FX 10",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 5",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 6",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 7",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 8",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 3",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 4",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 2",
+      "type": "Single Hit",
+      "instrument": "Percussion, SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 13",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 14",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 15",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 11",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 12",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 9",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 1",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Perc 10",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 8",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 7",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 4",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 5",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 6",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 15",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 2",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 3",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 12",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 13",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 14",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 11",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 1",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed Kick 10",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 7",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 8",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 9",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 4",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 5",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 6",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 18",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 2",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 3",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 15",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 16",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 17",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 11",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 12",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 13",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 14",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 10",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 9",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed OpHH 1",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 7",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 8",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 4",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 5",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 6",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 1",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 10",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 2",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat 3",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 6",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 7",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 8",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 9",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 3",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 4_Bpm134",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "134",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 5",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 10",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed CRSH 1",
+      "type": "Single Hit",
+      "instrument": "Cymbals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 7_G",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 8_D",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 9_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 3_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 4_Ab",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 5",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 6_E",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 23_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 24_D",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 25_F",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 2_G",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 20_F#",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 21_Cwav",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 22_E",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 1_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 17_F",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 18_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 19_E",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 15",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 16_D",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 14_D",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 10_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 11_D#",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 12_D#",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ed 808 13_D#",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Start 2 (edsclusive)_keyAmin_162bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "162",
+      "key": "Amin"
+    },
+    {
+      "name": "Yelp 1 (edsclusive)_keyF#min_138bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "138",
+      "key": "F#min"
+    },
+    {
+      "name": "Yelp 2 (edsclusive)_keyF#min_138bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "138",
+      "key": "F#min"
+    },
+    {
+      "name": "Ed CRSH 2_100bpm",
+      "type": "One Shot",
+      "instrument": "Cymbals",
+      "bpm": "100",
+      "key": ""
+    },
+    {
+      "name": "Start 1 (edsclusive)_keyAmin_162bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "162",
+      "key": "Amin"
+    },
+    {
+      "name": "short(edsclusive)2_keyAmin_138bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "138",
+      "key": "Amin"
+    },
+    {
+      "name": "short(edsclusive)3_keyAmin_138bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "138",
+      "key": "Amin"
+    },
+    {
+      "name": "ice Key Loop_keyAmin_147bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "147",
+      "key": "Amin"
+    },
+    {
+      "name": "ksubi3 (edsclusive)_keyDmin_149bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "149",
+      "key": "Dmin"
+    },
+    {
+      "name": "ksubi4 (edsclusive)_keyDmin_149bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "149",
+      "key": "Dmin"
+    },
+    {
+      "name": "short(edsclusive)1_keyAmin_138bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "138",
+      "key": "Amin"
+    },
+    {
+      "name": "[EDptk] TurboGFX_0_keyAmin_140bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "140",
+      "key": "Amin"
+    },
+    {
+      "name": "[EDptk] TurboGFX_1_keyAmin_140bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "140",
+      "key": "Amin"
+    },
+    {
+      "name": "[EDptk] TurboGFX_2_keyAmin_140bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "140",
+      "key": "Amin"
+    },
+    {
+      "name": "[EDptk] Vertical_2_keyDmin_132bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "132",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Celestial_1_keyF#min_120bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "120",
+      "key": "F#min"
+    },
+    {
+      "name": "[EDptk] Trust1_keyDmin_109bpm",
+      "type": "Loop",
+      "instrument": "Keys, Synth",
+      "bpm": "109",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Trust2_keyDmin_109bpm",
+      "type": "Loop",
+      "instrument": "Keys, Synth",
+      "bpm": "109",
+      "key": "Dmin"
+    },
+    {
+      "name": "ksubi2 (edsclusive)_keyDmin_149bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "149",
+      "key": "Dmin"
+    },
+    {
+      "name": "Talk1 (edsclusive)_keyDmin_166bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "166",
+      "key": "Dmin"
+    },
+    {
+      "name": "Talk2 (edsclusive)_keyDmin_166bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "166",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Winters3_keyDmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Winters4_keyDmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Winters5_keyDmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Dmin"
+    },
+    {
+      "name": "ksubi1 (edsclusive)_keyDmin_149bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "149",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Trust_keyDmin_109bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "109",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Vertical1_keyDmin_132bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "132",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Winters1_keyDmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Tested1_Bloc_keyC#min_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "C#min"
+    },
+    {
+      "name": "[EDptk] TheMob1_keyGmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Gmin"
+    },
+    {
+      "name": "[EDptk] TheMob2_keyGmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Gmin"
+    },
+    {
+      "name": "[EDptk] Scars_keyDmin_120bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "120",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] Sequences1_keyGmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Gmin"
+    },
+    {
+      "name": "[EDptk] Sequences2_keyGmin_140bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "140",
+      "key": "Gmin"
+    },
+    {
+      "name": "[EDptk] Quartz_keyEmin_118bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "118",
+      "key": "Emin"
+    },
+    {
+      "name": "[EDptk] Escape_keyG#min_103bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "103",
+      "key": "G#min"
+    },
+    {
+      "name": "[EDptk] Pesos_keyG#min_130bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "130",
+      "key": "G#min"
+    },
+    {
+      "name": "[EDptk] Commas_keyC#min_128bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "128",
+      "key": "C#min"
+    },
+    {
+      "name": "[EDptk] Escape2_keyG#min_103bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "103",
+      "key": "G#min"
+    },
+    {
+      "name": "[EDptk] Celestial_2_keyF#min_120bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Synth",
+      "bpm": "120",
+      "key": "F#min"
+    },
+    {
+      "name": "[EDptk] Celestial_3_keyF#min_120bpm",
+      "type": "Loop",
+      "instrument": "Bass, Multi-Instrumental, Synth",
+      "bpm": "120",
+      "key": "F#min"
+    },
+    {
+      "name": "[EDptk] Commas_1_keyC#min_128bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "128",
+      "key": "C#min"
+    },
+    {
+      "name": "[EDptk] Winters2_keyDmin_140bpm",
+      "type": "Loop",
+      "instrument": "Keys, Multi-Instrumental",
+      "bpm": "140",
+      "key": "Dmin"
+    },
+    {
+      "name": "[EDptk] ADHD_keyAmin_143bpm",
+      "type": "Loop",
+      "instrument": "Guitar, Multi-Instrumental",
+      "bpm": "143",
+      "key": "Amin"
+    },
+    {
+      "name": "[EDptk] Blessing&amp;Curse_keyBmin_140bpm",
+      "type": "Loop",
+      "instrument": "Keys, Multi-Instrumental",
+      "bpm": "140",
+      "key": "Bmin"
+    },
+    {
+      "name": "Ed HiHat1 Loop_130 BPM",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "130",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat2 Loop_130BPM",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "130",
+      "key": ""
+    },
+    {
+      "name": "[EDptk] Tested2_Bloc_keyC#min_140bpm",
+      "type": "Loop",
+      "instrument": "Keys",
+      "bpm": "140",
+      "key": "C#min"
+    },
+    {
+      "name": "[EDptk] TheMob_keyGmin_140bpm",
+      "type": "Loop",
+      "instrument": "Keys",
+      "bpm": "140",
+      "key": "Gmin"
+    },
+    {
+      "name": "Ed HiHat Loop_123BPM",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "123",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat Loop_124BPM",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "124",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat Loop_126BPM",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "126",
+      "key": ""
+    },
+    {
+      "name": "Ed HiHat Loop_155Bpm",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "155",
+      "key": ""
+    }
+  ]
+}

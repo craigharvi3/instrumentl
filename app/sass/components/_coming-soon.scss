@@ -1,0 +1,19 @@
+.coming-soon {
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+
+    @media(min-width: 900px) {
+      font-size: 3em;
+    }
+  }
+
+  p {
+    color: $coming-soon-text-colour;
+  }
+
+  a {
+    color: $coming-soon-link-colour;
+  }
+}

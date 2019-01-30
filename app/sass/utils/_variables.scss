@@ -1,0 +1,54 @@
+// Colour definitions
+
+$_white: #FFFFFF;
+$_shark: #6D6D6D; // grey
+$_tiger: #ECECEC; // light grey
+$_tiger: #ECECEC; // light grey
+$_monkey: #F5F5F5; // off white
+$_horse: #D20A0A; // red
+$_pig: #191616; // black
+$_snail: #3A3A3A; // off black
+
+
+// Colour implementations
+
+$page-background-colour: $_white;
+$page-font-colour: $_shark;
+
+$sidebar-bg: $_monkey;
+
+$header-background-colour: $_pig;
+$header-icon-colour: $_snail;
+
+$sidebar-background-colour: $_monkey;
+$sidebar-link-colour: $_shark;
+$sidebar-link-icon-colour: $_horse;
+
+$featured-fighter-label-background: $_horse;
+$featured-fighter-label-color: $_white;
+$featured-fighter-name: $_pig;
+$featured-fighter-details: $_pig;
+$featured-fighter-more: $_horse;
+
+$upcoming-events-label: $_shark;
+$upcoming-events-more: $_horse;
+
+$event-background-colour: $_monkey;
+$event-background-colour-hover: $_white;
+$event-colour: $_snail;
+$event-subtitle-colour: $_shark;
+$event-date-background: $_horse;
+$event-date-colour: $_white;
+
+$heading-colour: $_pig;
+
+$news-subtitle-colour: $_shark;
+$news-colour: $_snail;
+$news-date-background: $_horse;
+$news-date-colour: $_white;
+$news-background: $_monkey;
+$news-background-hover: $_white;
+$news-image-background-colour: $_snail;
+
+$coming-soon-text-colour: $_pig;
+$coming-soon-link-colour: $_horse;

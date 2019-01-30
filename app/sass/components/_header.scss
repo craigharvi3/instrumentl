@@ -1,0 +1,29 @@
+.header {
+  background: $header-background-colour;
+}
+
+.header-logo {
+  display: inline-block;
+
+  img {
+    height: 88px;
+  }
+}
+
+.header-icon {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: $header-icon-colour;
+}
+
+.header-menu {
+  float: left;
+  margin-right: 1em;
+}
+
+.header-search {
+  float: right;
+}

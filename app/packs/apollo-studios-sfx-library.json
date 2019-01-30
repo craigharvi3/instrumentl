@@ -1,0 +1,488 @@
+{
+  "id": "apollo-studios-sfx-library",
+  "name": "Apollo Studios SFX Library",
+  "image": "https://samples.landr.com/wp-content/uploads/2019/01/SAMPLES-PackArt_Apollo_600-300x300.jpg",
+  "artist": {
+    "name": "Apollo Studios",
+    "color": "#ffffff",
+    "image": "https://samples.landr.com/wp-content/uploads/2019/01/Apollo_Portrait-300x300.jpg"
+  },
+  "beats": [
+    {
+      "name": "APL_SFX_Riser 07",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_LOWHIT_Growling Evil",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 01_C",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Hits_Metal_02",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_SIMPLEHIT_Compression Punch",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_SIMPLEHIT_Timpani soft",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Building Collapse",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 06",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Hits_Metal 01",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Window Shatter",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Hits_Bulb_Metal_03",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Deep Jungle",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Car Destroyer",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Hits_Metal_Bram_01",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Tornado Bang",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISER_Breath of Beast",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Whoosh_Roar_01",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Iceman",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_First Nation Hit",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HIT_Short Punch",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_SIMPLEHIT_First Nation Soft Hit",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Laser Explosion",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISER_Tremolo Rain Stick copy",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_The Big Drip",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HIT_Drop Punch",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_SIMPLEHIT_Machine Punch",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Jump to Death",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_COMPLEX_Ghost Hit",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Ground Breaker",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Death Clock",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Metal Punch",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 08",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Screaming Blade",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Breath of death",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_AMB_Heavy Transition",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISER_Long Evolving Growl",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Suction Punch",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Reverse Timpani",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISER_Disgust Rise",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Hammer of Justice",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_AMB_Metal Resonance",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 02_C",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISER_Fisrt Nation Tension",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_Hit_Stories_Machine_Off",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Missile Destroy",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Hits_Bulb_Metal_01",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Gun Slinger",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Timer Out",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 03",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RiISEHIT_High Tension",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_HARDHIT_Final Assanation",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_COMPLEX_Warning Sign_A",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_ WHOOSH_Shutter Scream_Eb",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 05",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Riser 04",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_Hit_Stories_Beast_Breath",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_RISEHIT_Abyss Drone Hit",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_COMPLEX_Energy Strike",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APL_SFX_Whoosh_Stories_Cave_Wind",
+      "type": "Single Hit",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_COMPLEX_Crystal Dwelling",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_COMPLEX_Jurassic Slam",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_COMPLEX_Distorted Slasher_keyBbmin",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": "Bbmin"
+    },
+    {
+      "name": "APLSFX_AMB_Discovery_KeyAbMaj",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": "AbMaj"
+    },
+    {
+      "name": "APLSFX_COMPLEX_Triple HIt",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_AMB_Cloud Door_keyBbmin",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": "Bbmin"
+    },
+    {
+      "name": "APLSFX_COMPLEX_Reverse Heartbeat",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "APLSFX_AMB_Dark Forest_keyFmin",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": "Fmin"
+    },
+    {
+      "name": "APLSFX_COMPLEX_Dronic Bed_C",
+      "type": "One Shot",
+      "instrument": "SFX",
+      "bpm": "",
+      "key": ""
+    }
+  ]
+}

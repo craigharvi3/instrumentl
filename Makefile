@@ -6,4 +6,4 @@ docker-build:
 
 docker-run:
 	# Run the container
-	docker-compose -f docker/docker-compose.yml up --force-recreate
+	docker-compose -f docker/docker-compose.yml up

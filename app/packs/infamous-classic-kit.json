@@ -1,0 +1,831 @@
+{
+  "id": "infamous-classic-kit",
+  "name": "Infamous Classic Kit",
+  "image": "https://samples.landr.com/wp-content/uploads/2018/11/SAMPLES-PackArt_Havoc_600-300x300.jpg",
+  "artist": {
+    "name": "Havoc",
+    "color": "#262626",
+    "image": "https://samples.landr.com/wp-content/uploads/2018/11/Havoc_Portrait-300x300.jpg"
+  },
+  "beats": [
+    {
+      "name": "Vox Cold Blooded 2",
+      "type": "Single Hit",
+      "instrument": "Vocals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Vox Hear Me",
+      "type": "Single Hit",
+      "instrument": "Vocals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare The Infamous",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Unit",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Vox Cold Blooded 1",
+      "type": "Single Hit",
+      "instrument": "Vocals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Shots Go Off 2",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Queensbridge 2",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Real Shooters",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Run Down",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Shooters",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Mobb Party",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Prayers",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Queensbridge 1",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Gutter",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Hennessy",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Lay Down",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Life On The Line",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Fed Time",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Snare Grimey",
+      "type": "Single Hit",
+      "instrument": "Snare / Claps",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Tom Mid 1",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Tom Mid 2",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Tom Low 2",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Shaker 2",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Shaker 3",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Tamb 1",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Tom Low 1",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Metal",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Ride",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Shaker 1",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Bongo 3",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Ethnic Tamb",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Metal Bell",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick The Real",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Trouble",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Bongo 1",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Perc Bongo 2",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Silent",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Shooter 2",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Shots Go Off",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Run Down",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Shooter 1",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Principles",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Projects",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Quteensbridge",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Grimey",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Head Up",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Illuminati",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Lay Down",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "OH Run Down",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "OH Warfare",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Brinx",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Kick Cold Blooded",
+      "type": "Single Hit",
+      "instrument": "Kick",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "OH Deep",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Robbery",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Run Down 1",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Run Down 2",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Mobbin 3",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH NY Times",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Problems",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Make A Move",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Mobbin 1",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Mobbin 2",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Duck Down 1",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Duck Down 2",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Illuminati",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Lay Down",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Bass Unit 1_D",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Bass Unit 2_A",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HH Church",
+      "type": "Single Hit",
+      "instrument": "Hi Hats",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Bass Grimey_F",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Bass Projects_F",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Bass Run Down 2_C#",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "808 Right Hand Man_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "808 Say When_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "808 Violate_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Vox My Brother 86bpm",
+      "type": "One Shot",
+      "instrument": "Vocals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "808 Gutter_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "808 Infamouss_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "808 Militant_C",
+      "type": "Single Hit",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Vox Indictment_85bpm",
+      "type": "One Shot",
+      "instrument": "Vocals",
+      "bpm": "85",
+      "key": ""
+    },
+    {
+      "name": "Vox Lay Down",
+      "type": "One Shot",
+      "instrument": "Vocals",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Warfare sample_tail_ keyEmin_92bpm",
+      "type": "One Shot",
+      "instrument": "Multi-Instrumental, Orchestral",
+      "bpm": "92",
+      "key": ""
+    },
+    {
+      "name": "Snare Duck Down 1_87bpm",
+      "type": "One Shot",
+      "instrument": "Snare / Claps",
+      "bpm": "87",
+      "key": ""
+    },
+    {
+      "name": "Snare Duck Down 2_87bpm",
+      "type": "One Shot",
+      "instrument": "Snare / Claps",
+      "bpm": "87",
+      "key": ""
+    },
+    {
+      "name": "Snare Shots Go Off_120bpm",
+      "type": "One Shot",
+      "instrument": "Snare / Claps",
+      "bpm": "120",
+      "key": ""
+    },
+    {
+      "name": "OH Revolution_86bpm",
+      "type": "One Shot",
+      "instrument": "Hi Hats",
+      "bpm": "86",
+      "key": ""
+    },
+    {
+      "name": "Kick Fall Back_92bpm",
+      "type": "One Shot",
+      "instrument": "Beats, Kick",
+      "bpm": "92",
+      "key": ""
+    },
+    {
+      "name": "Kick Mobbin_92bpm",
+      "type": "One Shot",
+      "instrument": "Beats, Kick",
+      "bpm": "92",
+      "key": ""
+    },
+    {
+      "name": "Bass Shooters 1_C_85bpm",
+      "type": "One Shot",
+      "instrument": "Bass",
+      "bpm": "85",
+      "key": ""
+    },
+    {
+      "name": "Bass Shooters 2_keyBmin_85bpm",
+      "type": "One Shot",
+      "instrument": "Bass, Multi-Instrumental",
+      "bpm": "85",
+      "key": "Bmin"
+    },
+    {
+      "name": "Bass Whats Mine Is Yours D",
+      "type": "One Shot",
+      "instrument": "Bass",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Save Yourself perc_96bpm",
+      "type": "Loop",
+      "instrument": "Hi Hats, Percussion",
+      "bpm": "96",
+      "key": ""
+    },
+    {
+      "name": "Die Slow low sample_keyEmin_80bpm",
+      "type": "Loop",
+      "instrument": "Synth",
+      "bpm": "80",
+      "key": "Emin"
+    },
+    {
+      "name": "Bass Church_85bpm",
+      "type": "One Shot",
+      "instrument": "Bass, Multi-Instrumental",
+      "bpm": "85",
+      "key": ""
+    },
+    {
+      "name": "Bass Run Down 1 C#_89bpm",
+      "type": "One Shot",
+      "instrument": "Bass, Multi-Instrumental",
+      "bpm": "89",
+      "key": ""
+    },
+    {
+      "name": "Warfare sample part1_keyEmin_92bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Orchestral",
+      "bpm": "92",
+      "key": "Emin"
+    },
+    {
+      "name": "Warfare sample part2_keyEmin_92bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Orchestral",
+      "bpm": "92",
+      "key": "Emin"
+    },
+    {
+      "name": "Shots Go Off brass_keyGmin_90bpm",
+      "type": "Loop",
+      "instrument": "Orchestral",
+      "bpm": "90",
+      "key": "Gmin"
+    },
+    {
+      "name": "Shots Go Off brass 2_keyGmin_90bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Orchestral",
+      "bpm": "90",
+      "key": "Gmin"
+    },
+    {
+      "name": "Rest In Peace_ keyD#min_80bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "80",
+      "key": "Dmin"
+    },
+    {
+      "name": "Run Down misc_keyC#min_94bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "94",
+      "key": "Cmin"
+    },
+    {
+      "name": "Die Slow strings_keyEmin_80bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Orchestral",
+      "bpm": "80",
+      "key": "Emin"
+    },
+    {
+      "name": "Indictment Guitar_keyBbmin_90bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "90",
+      "key": "Bbmin"
+    },
+    {
+      "name": "No Love keys_keyG#min_92bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental",
+      "bpm": "92",
+      "key": "Gmin"
+    },
+    {
+      "name": "Run Down_keyC#min_94bpm",
+      "type": "Loop",
+      "instrument": "Keys",
+      "bpm": "94",
+      "key": "Cmin"
+    },
+    {
+      "name": "Body Cound loop_keyGmin_88bpm",
+      "type": "Loop",
+      "instrument": "Beats, Multi-Instrumental",
+      "bpm": "88",
+      "key": "Gmin"
+    },
+    {
+      "name": "Die Slow stabs_keyEmin_80bpm",
+      "type": "Loop",
+      "instrument": "Multi-Instrumental, Orchestral",
+      "bpm": "80",
+      "key": "Emin"
+    },
+    {
+      "name": "Sacrifices drums_80bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "80",
+      "key": ""
+    },
+    {
+      "name": "Stay On Point drums_87bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "87",
+      "key": ""
+    },
+    {
+      "name": "Catch You Sleeping hats_92bpm",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "92",
+      "key": ""
+    },
+    {
+      "name": "Loose Ends hats_88bpm",
+      "type": "Loop",
+      "instrument": "Hi Hats",
+      "bpm": "88",
+      "key": ""
+    },
+    {
+      "name": "Make A Move_83bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "83",
+      "key": ""
+    },
+    {
+      "name": "Pulse drums_86bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "86",
+      "key": ""
+    },
+    {
+      "name": "Run Down drums_94bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "94",
+      "key": ""
+    },
+    {
+      "name": "Crossfire drums_90bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "90",
+      "key": ""
+    },
+    {
+      "name": "Die Slow drums_80bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "80",
+      "key": ""
+    },
+    {
+      "name": "Let Em Know perc_95bpm",
+      "type": "Loop",
+      "instrument": "Beats",
+      "bpm": "95",
+      "key": ""
+    }
+  ]
+}

@@ -1,0 +1,1496 @@
+{
+  "id": "guitar-americana",
+  "name": "Guitar Americana",
+  "image": "https://samples.landr.com/wp-content/uploads/2019/01/SAMPLES-PackArt_AllyMcErlaine-300x300.jpg",
+  "artist": {
+    "name": "Ally McErlaine",
+    "color": null,
+    "image": "https://samples.landr.com/wp-content/uploads/2019/01/AllyMcErlaine_Portrait-300x300.jpg"
+  },
+  "beats": [
+    {
+      "name": "Tremelo Guitar_BMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tremelo Guitar_Dmin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tremelo Guitar_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "TremGUIT_FMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele wobble_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "TeleSwell_Emin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tremelo Guitar_Amin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Vibrato_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Vibrato_C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Vibrato_G",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele wobble snap_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Twang in_D#Maj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Vibrato in A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele String Scratch",
+      "type": "Single Hit",
+      "instrument": "Guitar, SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele String Zip",
+      "type": "Single Hit",
+      "instrument": "Guitar, SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Slideup_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele String Behind Nut",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele String High Scratch",
+      "type": "Single Hit",
+      "instrument": "Guitar, SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Pulloff_D#-C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Slideup_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Pullof_ C-A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Octaves_G-A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Plucked Note_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Pull off",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Octaves_C-D",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Octaves_C#",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Octaves_D-E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Muted_D",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Muted_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Octaves atonal",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Octaves_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Muted Octave_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Muted_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Low Growl",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele low hit_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Low Double stop_Emin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Higher Driven Chord_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Low Barre_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele High wail_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele High_EMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Higher Driven Chord_AMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele high Bend_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele high bendG_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele High Double stop_DMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele High Double stop_EMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele High A Double stop_Amin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele High B Double stop_DMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele high Bend_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Harmonics long_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Harmonics String Bend 2_D",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Harmonics String bend_G",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Growl_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Growl_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Driven Chord_Fmin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Driven_Chord_Dmin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Driven Chord_C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Driven Chord_D",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Driven Chord_Emin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Country Bend_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Country Double Bend_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Country Low Double Bend GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Bendup_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Bendup_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Chicken Pick_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Barre_Emin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Barre_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele bend to Vibrato_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Barre_DMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele  Vibrato_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Barre_CMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Strat high_CMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Strat high2_CMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele  Barre_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "GuitarHighHit",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "HighGuitarHit1_",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Squeak Percussive",
+      "type": "Single Hit",
+      "instrument": "Guitar, Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Stab high G 9",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Stab_A Min",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "GUitar High EchoStab_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Knock",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Knock 2",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Muted Stab_DMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar High EchoStab_AMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar High EchoStab_Cmin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Echostab_F",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "GUIT-STAB-",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guit-Tele snarly_1",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Guitar Behind Nut Echo_110bpm",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "110",
+      "key": ""
+    },
+    {
+      "name": "Guit- Stab-Hi_EMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "GUIT-STAB_Bmin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "EchoStab_FMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "FastSlide_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "FastSlideDown_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroUp D Echo",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ebow Drone Distortion C",
+      "type": "Single Hit",
+      "instrument": "Guitar, SFX",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Ebow_F#",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "EbowTremDron3_C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroSlideDown_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroSlideTo_BMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroSlideUP-D_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroDownEcho_G",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroEchoSlideUp_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroSlide to_BMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroSlideDown_C#",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Slide_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "DobroDescendSlide_E",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Slide Down",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Slide to_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Slide Up",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Shake_A",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Shake_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Shake_C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Knock Resonant",
+      "type": "Single Hit",
+      "instrument": "Percussion",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Descend Slide",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro Fast Slide_B",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Dobro - High Vibrato_1_D",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Banjo Note_C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Banjo_D#-C",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Autoharp Chord_FMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Autoharp Chord_GMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Autoharp Chord_GMaj7",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Banjo Hit_Cmin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele Soul LIck_keyEmin_124bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "Emin"
+    },
+    {
+      "name": "Autoharp Chord_Amin",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Autoharp Chord_CMaj",
+      "type": "Single Hit",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Tele low E Lick_keyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Tele low Lick 2_keyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Tele Snappy High Blues Lick_keyEmin_124bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "Emin"
+    },
+    {
+      "name": "Tele High Lick2_keyGMaj_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele Lick 2_keyGMaj_124bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele Lick_keyGMaj_124bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele High Lick_keyGMaj_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele Country Blues Lick_keyGMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele chickpick harmonic in A_keyAmin_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "Amin"
+    },
+    {
+      "name": "Tele chickpick to A lick_keyAmin_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "Amin"
+    },
+    {
+      "name": "Strat in G resolve_keyGMaj_110bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "110",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele bend to_keyEmin_124bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "Emin"
+    },
+    {
+      "name": "Tele Blues Lick_keyEmin_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "Emin"
+    },
+    {
+      "name": "Reso Guitar Stab_GMaj",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": ""
+    },
+    {
+      "name": "Star trek EchoSynth Guitar_keyBmin_80bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "80",
+      "key": "Bmin"
+    },
+    {
+      "name": "Strat high_keyEmin_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "Emin"
+    },
+    {
+      "name": "GUIT-SoulLick_keyAmin_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "Amin"
+    },
+    {
+      "name": "Melody Slide_keyEmin_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "Emin"
+    },
+    {
+      "name": "Radiant StringsHighEchoSynth_keyEmin",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": "Emin"
+    },
+    {
+      "name": "GUIT-CoutrySoulLick2_keyGMaj_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "GMaj"
+    },
+    {
+      "name": "GUIT-CoutrySoulLick3_keyGMaj_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "GMaj"
+    },
+    {
+      "name": "GUIT-SoulLick high_keyAmin_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "Amin"
+    },
+    {
+      "name": "GUIT-CoutrySoulLick1_keyGMaj_130bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "130",
+      "key": "GMaj"
+    },
+    {
+      "name": "Electric Submarine Guitar_keyC#min",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": "C#min"
+    },
+    {
+      "name": "GslideLick_KeyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Elec MelodyLickin_keyGMaj_117bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "elec Riff_keyCmin_140bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "140",
+      "key": "Cmin"
+    },
+    {
+      "name": "Elec Slide Lead in_KeyEmin_121bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "121",
+      "key": "Emin"
+    },
+    {
+      "name": "Elec Bluesy Lick_keyAMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "AMaj"
+    },
+    {
+      "name": "DobroRising SlideG_keyGMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "GMaj"
+    },
+    {
+      "name": "DobroStonesyStab_keyEMaj",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": "EMaj"
+    },
+    {
+      "name": "Ebow Sad_keyC#min",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": "C#min"
+    },
+    {
+      "name": "DobroEchoSlidetoB_D_keyDMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "DMaj"
+    },
+    {
+      "name": "DobroEchoSlideUp_keyGMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "GMaj"
+    },
+    {
+      "name": "DobroLickE-_KeyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Dobro-Slide Lick_keyEMaj_117bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "EMaj"
+    },
+    {
+      "name": "DobroBluesLickTo_keyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "DobroDownEcho_keyDMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "DMaj"
+    },
+    {
+      "name": "Dobro-slide Down_keyDMaj",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": "DMaj"
+    },
+    {
+      "name": "Dobro Slider_KeyC#Maj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "C#Maj"
+    },
+    {
+      "name": "Dobro_HighSlideLick_keyDmin_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "Dmin"
+    },
+    {
+      "name": "Dobro Blues Slide_keyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Dobro G slide lick_keyEMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Dobro High Slide_keyEMaj",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "",
+      "key": "EMaj"
+    },
+    {
+      "name": "bluesSadSlide_keyEmin_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "Emin"
+    },
+    {
+      "name": "BluesySlideLick.2_keyGMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "GMaj"
+    },
+    {
+      "name": "BluesySlideLick3_keyGMaj_120bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "GMaj"
+    },
+    {
+      "name": "AccEStab1_keyAMaj_134bpm",
+      "type": "One Shot",
+      "instrument": "Guitar",
+      "bpm": "134",
+      "key": "AMaj"
+    },
+    {
+      "name": "Tele Train_keyCMaj_124 bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "CMaj"
+    },
+    {
+      "name": "Tele Train_keyGMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "GMaj"
+    },
+    {
+      "name": "Tele_keyAmin_132bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "132",
+      "key": "Amin"
+    },
+    {
+      "name": "Tele Southern Riff 2_keyEMaj_90bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "90",
+      "key": "EMaj"
+    },
+    {
+      "name": "Tele Southern Riff_keyEMaj_132bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "132",
+      "key": "EMaj"
+    },
+    {
+      "name": "Tele SweetCountryLick_keyCMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "CMaj"
+    },
+    {
+      "name": "Tele LowRiffCountryLick_keyCmin 124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "Cmin"
+    },
+    {
+      "name": "Tele High Bend CountryLick_keyCMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "CMaj"
+    },
+    {
+      "name": "Tele Low Bend CountryLick_keyCMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "CMaj"
+    },
+    {
+      "name": "Tele Chorus 2_keyAmin_132bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "132",
+      "key": "Amin"
+    },
+    {
+      "name": "Tele CountryLick_keyCMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "CMaj"
+    },
+    {
+      "name": "Tele D Hammer_keyDMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "DMaj"
+    },
+    {
+      "name": "Tele Fast CountryLick_keyCMaj_124bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "124",
+      "key": "CMaj"
+    },
+    {
+      "name": "Guitar Harmonics Riff_keyDmin_113bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "113",
+      "key": "Dmin"
+    },
+    {
+      "name": "Tele Arpeg Choruskey_keyAmin_132bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "132",
+      "key": "Amin"
+    },
+    {
+      "name": "Tele Arpeg Slap Echo_keyAmin_132bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "132",
+      "key": "Amin"
+    },
+    {
+      "name": "Elec Melody Lick_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "FastSlideLick_keyBMaj_120bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "BMaj"
+    },
+    {
+      "name": "Git 134 Soul riff_keyGMaj_134bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "134",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec LeadBluesy Lick_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Lead Bluesy Lick_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Lead desc lick_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Lead High_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Distorted Funk 2_keyCmin_140 bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "140",
+      "key": "Cmin"
+    },
+    {
+      "name": "Elec Double Stop Bend_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Double Stop Rundown_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Arp High_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec ARP Lead IN_keyGMaj_120bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Chug_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    },
+    {
+      "name": "Elec Distorted Funk 1_keyCmin_140 bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "140",
+      "key": "Cmin"
+    },
+    {
+      "name": "Dobro Slide_keyEMaj_120bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "DobroC Lick_keyCMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "CMaj"
+    },
+    {
+      "name": "DobroCriff low_keyCMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "CMaj"
+    },
+    {
+      "name": "AccPick C_ G_KeyCMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "CMaj"
+    },
+    {
+      "name": "Affected Acoustic Riff_keyAMaj_115bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "115",
+      "key": "AMaj"
+    },
+    {
+      "name": "Dobro riff_keyEMaj_120bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Dobro Slide High_KeyEMaj_120bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "120",
+      "key": "EMaj"
+    },
+    {
+      "name": "Acc C_G Riff high_keyCMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "CMaj"
+    },
+    {
+      "name": "Acc Riff_keyGMaj_117bpm",
+      "type": "Loop",
+      "instrument": "Guitar",
+      "bpm": "117",
+      "key": "GMaj"
+    }
+  ]
+}
