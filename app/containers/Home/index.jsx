@@ -3,16 +3,18 @@ import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 
+import * as PacksActions from '../../actions/packs';
+
 class HomeContainer extends PureComponent {
 
   static readyOnActions(dispatch) {
     return Promise.all([
-      
+      dispatch(PacksActions.fetchPacksIfNeeded()),
     ]);
   }
 
   componentDidMount() {
-    // HomeContainer.readyOnActions(this.props.dispatch, this.props.params);
+    HomeContainer.readyOnActions(this.props.dispatch, this.props.params);
   }
 
   getMetaTags() {
@@ -33,16 +35,34 @@ class HomeContainer extends PureComponent {
     ];
   }
 
-  render() {
-    const { list } = this.props.events;
-    const { fighter } = this.props.fighter;
-    const { list: newsList } = this.props.news;
+  renderPacks() {
+    const { list } = this.props.packs;
+    return list.map((pack) => {
+      return (
+        <li className='pack gel-layout__item gel-1/2@xs gel-1/4@m gs-u-display-inline-block gs-u-mb gs-u-m0@m'>
+          <div className='pack-image'>
+            <img src={pack.image} alt='' />
+          </div>
+          <div className='pack-artist gs-u-pv+'>
+            <img className='pack-artist-image gs-u-float-left gs-u-mr+' src={pack.artist.image} alt='' />
+            <div className='pack-artist-details'>
+              <a href=''>{pack.name}</a>
+              <p>{pack.artist.name}</p>
+            </div>
+          </div>
+        </li>
+      );
+    });
+  }
 
+  render() {
     return (
       <div>
         <Helmet title="Create and share beats with the Instrumentl Beat Pad" description='Home page' meta={this.getMetaTags()} />
         <div className='gel-wrap gs-u-pv+'>
-          <h1>hello</h1>
+          <ul className='packs gel-layout'>
+            {this.renderPacks()}
+          </ul>
         </div>
       </div>
     );
@@ -51,15 +71,11 @@ class HomeContainer extends PureComponent {
 
 HomeContainer.propTypes = {
   dispatch: PropTypes.func.isRequired,
-  events: PropTypes.array.isRequired,
-  fighter: PropTypes.object.isRequired,
-  news: PropTypes.array.isRequired
+  packs: PropTypes.object.isRequired
 };
 
-const mapStateToProps = ({ events, fighter, news }) => ({
-  events,
-  fighter,
-  news
+const mapStateToProps = ({ packs }) => ({
+  packs
 });
 
 export default connect(mapStateToProps)(HomeContainer);

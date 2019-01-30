@@ -1,10 +1,6 @@
 import { combineReducers } from 'redux';
-import events from './events';
-import fighter from './fighter';
-import news from './news';
+import packs from './packs';
 
 export default combineReducers({
-  events,
-  fighter,
-  news
+  packs
 });
