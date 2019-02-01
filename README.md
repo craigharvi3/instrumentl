@@ -36,3 +36,11 @@ Create and share beats with the Instrumentl Beat Pad
 6. Nagivate to `http://local.instrumentl.co.uk` to view the project
 
 7. `make docker-run` will start the server with Nodemon, which will watch for changes in the code and refresh. If you want to watch for client changes, you can just open up a new window and run `yarn start:client`.
+
+
+### Assets
+
+All assets have a year long cache life
+```
+Cache-Control: max-age=31536000
+```

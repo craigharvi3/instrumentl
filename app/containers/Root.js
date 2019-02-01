@@ -24,7 +24,7 @@ class Root extends PureComponent {
           {head.link.toComponent()}
           <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
           <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-          <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" />
+          <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:500,700|Roboto:400,500,700" rel="stylesheet" />
           <link rel="stylesheet" type="text/css" href="/css/app.css" />
           <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css" />
           <link rel="icon" href="/img/favicon.ico" type="image/x-icon" />

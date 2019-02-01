@@ -1,11 +1,12 @@
 {
   "id": "infamous-classic-kit",
   "name": "Infamous Classic Kit",
-  "image": "https://samples.landr.com/wp-content/uploads/2018/11/SAMPLES-PackArt_Havoc_600-300x300.jpg",
+  "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/infamous-classic-kit/infamous-classic-kit.jpg",
   "artist": {
+    "id": "havoc",
     "name": "Havoc",
     "color": "#262626",
-    "image": "https://samples.landr.com/wp-content/uploads/2018/11/Havoc_Portrait-300x300.jpg"
+    "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/infamous-classic-kit/havoc.jpg"
   },
   "beats": [
     {

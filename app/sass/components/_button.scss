@@ -1,0 +1,25 @@
+.button {
+  font-size: 1em;
+  font-weight: 500;
+  background: $button-background-colour;
+  color: $button-font-colour;
+  border: 2px solid $button-background-colour;
+  cursor: pointer;
+  min-width: 200px;
+
+  &:hover {
+    background: $button-font-colour;
+    color: $button-background-colour;
+  }
+
+  &--white {
+    background: $button-font-colour;
+    color: $button-background-colour;
+    border: 2px solid $button-font-colour;
+
+    &:hover {
+      background: $button-background-colour;
+      color: $button-font-colour;
+    }
+  }
+}

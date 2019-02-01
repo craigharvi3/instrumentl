@@ -1,11 +1,12 @@
 {
   "id": "element-soundkit",
   "name": "Element Soundkit",
-  "image": "https://samples.landr.com/wp-content/uploads/2018/12/SAMPLES-PackArt_Edsclusive_600-300x300.jpg",
+  "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/element-soundkit/element-soundkit.jpg",
   "artist": {
+    "id": "edsclusive",
     "name": "Edsclusive",
     "color": "#ffffff",
-    "image": "https://samples.landr.com/wp-content/uploads/2018/12/Edsclusive_Portrait-300x300.jpg"
+    "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/element-soundkit/edsclusive.jpg"
   },
   "beats": [
     {
@@ -1288,13 +1289,6 @@
       "instrument": "Guitar, Multi-Instrumental",
       "bpm": "143",
       "key": "Amin"
-    },
-    {
-      "name": "[EDptk] Blessing&amp;Curse_keyBmin_140bpm",
-      "type": "Loop",
-      "instrument": "Keys, Multi-Instrumental",
-      "bpm": "140",
-      "key": "Bmin"
     },
     {
       "name": "Ed HiHat1 Loop_130 BPM",

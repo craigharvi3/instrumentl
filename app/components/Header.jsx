@@ -10,9 +10,9 @@ export default class Header extends PureComponent {
     return (
       <header className='header gs-u-align-center'>
         <div className='gel-wrap gs-u-pv++'>
-          <a className='header-logo' href='/'>
+          <Link className='header-logo' to='/'>
             <img src='/img/logo.png' alt='' />
-          </a>
+          </Link>
         </div>
       </header>
     );

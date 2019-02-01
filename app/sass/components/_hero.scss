@@ -1,0 +1,36 @@
+.hero {
+  position: relative;
+  min-height: 228px; // 64px x 2 + 100
+  color: $hero-font-colour;
+
+  &-image {
+    width: 100px;
+  }
+  
+  &-bg-image {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    transition: all .5s linear;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-image: linear-gradient(rgba(25, 22, 22, 1), rgba(25, 22, 22, 0.5));
+      background-color: rgba(25, 22, 22, .55);
+    }
+  }
+
+  h2 {
+    color: $hero-font-colour;
+  }
+}

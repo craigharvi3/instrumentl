@@ -2,9 +2,11 @@ import React, { PureComponent } from 'react';
 import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import Title from '../../components/Title';
+import Hero from '../../components/Hero';
+import BeatsTable from '../../components/BeatsTable';
 
 import * as PacksActions from '../../actions/packs';
+import { compose } from 'redux';
 
 class PackContainer extends PureComponent {
 
@@ -45,9 +47,8 @@ class PackContainer extends PureComponent {
     return (
       <div>
         <Helmet title={this.getPack().name} description='Home page' meta={this.getMetaTags()} />
-        <div className='gel-wrap i-module-slice'>
-          <Title title={this.getPack().name} />
-        </div>
+        <Hero title={this.getPack().name} image={this.getPack().image} artist={this.getPack().artist.name} />
+        <BeatsTable pack={this.getPack()} />
       </div>
     );
   }

@@ -1,11 +1,12 @@
 {
   "id": "apollo-studios-sfx-library",
   "name": "Apollo Studios SFX Library",
-  "image": "https://samples.landr.com/wp-content/uploads/2019/01/SAMPLES-PackArt_Apollo_600-300x300.jpg",
+  "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/apollo-studios-sfx-library/apollo-studios-sfx-library.jpg",
   "artist": {
+    "id": "apollo-portrait",
     "name": "Apollo Studios",
     "color": "#ffffff",
-    "image": "https://samples.landr.com/wp-content/uploads/2019/01/Apollo_Portrait-300x300.jpg"
+    "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/apollo-studios-sfx-library/apollo-portrait.jpg"
   },
   "beats": [
     {

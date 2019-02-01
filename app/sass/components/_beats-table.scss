@@ -1,0 +1,27 @@
+.beats-table {
+  width: 100%;
+  max-width: 100%;
+
+  &__image {
+    width: 50px;
+  }
+
+  &__waveform {
+    width: 300px;
+    height: 25px;
+    opacity: 0;
+  }
+
+  &__th {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+  }
+
+  &__td {
+    border-top: 1px solid $table-border-colour;
+  }
+
+  &__row {
+
+  }
+}

@@ -1,11 +1,12 @@
 {
   "id": "guitar-americana",
   "name": "Guitar Americana",
-  "image": "https://samples.landr.com/wp-content/uploads/2019/01/SAMPLES-PackArt_AllyMcErlaine-300x300.jpg",
+  "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/guitar-americana/guitar-americana.jpg",
   "artist": {
+    "id": "ally-mcerlaine",
     "name": "Ally McErlaine",
     "color": null,
-    "image": "https://samples.landr.com/wp-content/uploads/2019/01/AllyMcErlaine_Portrait-300x300.jpg"
+    "image": "https://s3.eu-west-2.amazonaws.com/production.instrumentl.co.uk/guitar-americana/ally-mcerlaine.jpg"
   },
   "beats": [
     {
