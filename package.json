@@ -17,7 +17,7 @@
     "coverage": "yarn lint && yarn test:coverage"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "body-parser": "^1.18.3",
     "classnames": "^2.2.6",
     "config": "^1.30.0",
