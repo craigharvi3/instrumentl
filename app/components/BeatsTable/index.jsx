@@ -58,24 +58,12 @@ export default class BeatsTable extends PureComponent {
         wavesurfer.params.container.style.opacity = 1;
       });
 
-      // wavesurfer.on('pause', function () {
-      //   $row.find('.fa-pause').removeClass('fa-pause').addClass('fa-play');
-      // });
-
-      // wavesurfer.on('finish', function () {
-      //   $row.find('.fa-pause').removeClass('fa-pause').addClass('fa-play');
-      // });
-
-      // wavesurfer.on('play', function () {
-      //   $row.find('.fa-play').removeClass('fa-play').addClass('fa-pause');
-      // });
-
-      // wavesurfer.on('error', function () {
-      //   $row.addClass('error');
-      //   $row.attr('title', 'There was an error loading this audio item.');
-      //   $el.siblings('.fa-spinner').remove();
-      //   $row.find('.waveform-control').replaceWith('Error loading audio');
-      // });
+      wavesurfer.on('error', function () {
+        el.className = `${el.className} beats-table__row--error`;
+        const spinner = el.querySelector('.fa-spinner');
+        spinner.parentNode.removeChild(spinner);
+        el.setAttribute('title', 'There was an error loading this audio item.');
+      });
     });
   }
 
@@ -115,9 +103,6 @@ export default class BeatsTable extends PureComponent {
   renderLoadMore() {
     const { numberOfBeats } = this.state;
     const { pack } = this.props;
-
-    console.log('numberOfBeats', numberOfBeats);
-    console.log('pack.beats.length', pack.beats.length);
 
     if (numberOfBeats < pack.beats.length) {
       return (

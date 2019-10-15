@@ -22,6 +22,8 @@
   }
 
   &__row {
-
+    &--error * {
+      color: $table-row-colour-error;
+    }
   }
 }

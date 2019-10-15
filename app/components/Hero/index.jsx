@@ -12,7 +12,7 @@ export default class Hero extends PureComponent {
   }
 
   render() {
-    const { title, image, artist } = this.props;
+    const { packId, title, image, artist } = this.props;
 
     return (
       <div className='hero gs-u-overflow-hidden gs-u-align-left'>
@@ -24,7 +24,7 @@ export default class Hero extends PureComponent {
               <h2 className='gs-u-display-inline-block'>{title}</h2>
               <p className='gs-u-mt'>{artist}</p>
             </div>
-            <Link className='button button--white gs-u-float-right@l gs-u-align-center gs-u-p+ gs-u-display-inline-block' to='/new'>
+            <Link className='button button--white gs-u-float-right@l gs-u-align-center gs-u-p+ gs-u-display-inline-block' to={`/track/new/${packId}`}>
               <i className='fa fa-plus gs-u-mr+'></i> New track
             </Link>
           </div>
@@ -35,6 +35,7 @@ export default class Hero extends PureComponent {
 }
 
 Hero.propTypes = {
+  packId: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   image: PropTypes.string.isRequired,
   artist: PropTypes.string.isRequired

@@ -2,13 +2,13 @@ import React, { PureComponent } from 'react';
 import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import Hero from '../../components/Hero';
-import BeatsTable from '../../components/BeatsTable';
+import AudioList from '../../components/AudioList';
+import DrumpadContainer from '../Drumpad';
+import DrumpadControlsContainer from '../DrumpadControls';
 
 import * as PacksActions from '../../actions/packs';
-import { compose } from 'redux';
 
-class PackContainer extends PureComponent {
+class NewTrackContainer extends PureComponent {
 
   static readyOnActions(dispatch) {
     return Promise.all([
@@ -17,7 +17,7 @@ class PackContainer extends PureComponent {
   }
 
   componentDidMount() {
-    PackContainer.readyOnActions(this.props.dispatch, this.props.params);
+    NewTrackContainer.readyOnActions(this.props.dispatch, this.props.params);
   }
 
   getPack() {
@@ -44,17 +44,25 @@ class PackContainer extends PureComponent {
   }
 
   render() {
+    console.log(this.getPack());
     return (
       <div>
-        <Helmet title={this.getPack().name} description='Home page' meta={this.getMetaTags()} />
-        <Hero title={this.getPack().name} image={this.getPack().image} artist={this.getPack().artist.name} packId={this.getPack().id} />
-        <BeatsTable pack={this.getPack()} />
+        <Helmet title={this.getPack().name} description='New Track' meta={this.getMetaTags()} />
+        <div class="wrap drumpad-wrap">
+          <div class="drumpad-container drumpad-beats">
+            <div class="drumpad-beats__inner">
+              <AudioList pack={this.getPack()} />
+            </div>
+          </div>
+          <DrumpadContainer />
+          <DrumpadControlsContainer />
+        </div>
       </div>
     );
   }
 }
 
-PackContainer.propTypes = {
+NewTrackContainer.propTypes = {
   dispatch: PropTypes.func.isRequired,
   packs: PropTypes.object.isRequired
 };
@@ -63,4 +71,4 @@ const mapStateToProps = ({ packs }) => ({
   packs
 });
 
-export default connect(mapStateToProps)(PackContainer);
+export default connect(mapStateToProps)(NewTrackContainer);
