@@ -30,7 +30,7 @@
     "express-session": "^1.15.6",
     "history": "^4.7.2",
     "moment": "^2.22.2",
-    "moment-timezone": "^0.5.17",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^2.2.33",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
